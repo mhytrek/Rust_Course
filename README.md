@@ -2,4 +2,4 @@
 Coding exercises for my Rust Course @ AGH UST
 
 ## Mini Projects:
-1. Tic tac toe (Console Aplication)
+1. Tic tac toe (Console Application)
